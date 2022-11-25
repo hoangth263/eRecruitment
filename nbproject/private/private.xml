@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/WEB-INF/view/interview/set_schedule.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>39</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/controllers/UserController.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/view/apply/index_apply.jsp</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/controllers/InterviewController.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/controllers/ExamController.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/layouts/main.jsp</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/view/apply/list_Recruit.jsp</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/view/interview/interview_schedule.jsp</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/view/apply/list_All.jsp</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/daos/JobDAO.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/daos/MajorDAO.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/view/home/index.jsp</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/controllers/HomeController.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/daos/CandidateDAO.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/daos/InterviewingDAO.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/src/java/controllers/ApplyController.java</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/view/interview/interview_process.jsp</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/view/apply/list_Inprocess.jsp</file>
+            <file>file:/C:/Users/dinht/Desktop/project%20backup/SWP391-GroupHHHTD-SE1610/web/WEB-INF/view/user/listNotification.jsp</file>
+        </group>
+    </open-files>
+</project-private>
